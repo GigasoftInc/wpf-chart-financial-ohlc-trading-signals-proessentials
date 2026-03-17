@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinancialOhlcChart", "FinancialOhlcChart.csproj", "{C3F8A2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F8A2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4D}.Debug|x64.ActiveCfg = Debug|x64
+		{C3F8A2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4D}.Debug|x64.Build.0 = Debug|x64
+		{C3F8A2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4D}.Release|x64.ActiveCfg = Release|x64
+		{C3F8A2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F8C2D1-7E4B-4A9F-8C1D-2E5B6F3A9C4E}
+	EndGlobalSection
+EndGlobal
