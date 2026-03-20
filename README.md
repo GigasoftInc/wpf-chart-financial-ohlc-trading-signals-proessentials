@@ -4,7 +4,7 @@ A ProEssentials v10 WPF .NET 8 demonstration of a full-featured financial
 charting application with OHLC candlesticks, technical studies, and 
 custom trading signal annotations across 10 real stock symbols.
 
-![ProEssentials Financial OHLC Chart](https://gigasoft.com/wpf-chart/screenshots/screen030.png)
+![ProEssentials Financial OHLC Chart](docs/screen030.png)
 
 ---
 
